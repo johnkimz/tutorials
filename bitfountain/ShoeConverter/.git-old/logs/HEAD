@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 2f32e953a1ae18fd6dbbdf30e508e90f6c59bc46 John Kim <john@townsquaredigital.com> 1422371174 -0500	commit (initial): Initial Commit
+2f32e953a1ae18fd6dbbdf30e508e90f6c59bc46 34cc17a68d1a0c0e31ac55d464146984f260933a John Kim <john@townsquaredigital.com> 1422395287 -0500	commit: shoeconverter
+34cc17a68d1a0c0e31ac55d464146984f260933a ca07371a2c943aa4f2dd08d95fe1e00cee8a6843 John Kim <john@townsquaredigital.com> 1422395651 -0500	commit: refactor
+ca07371a2c943aa4f2dd08d95fe1e00cee8a6843 ff6ec22d79e1fadd361a5cbf600298a4126cc8ea John Kim <john@townsquaredigital.com> 1422396399 -0500	commit: added women's conversion
+ff6ec22d79e1fadd361a5cbf600298a4126cc8ea eac6d8faae85a0fc6118044bb52f5eca7c7b4b03 John Kim <john@townsquaredigital.com> 1422401965 -0500	commit: Laika Dog Years Conversion
+eac6d8faae85a0fc6118044bb52f5eca7c7b4b03 6b18d414c4d1a8bd45b2cb33eeee11ef22a5de81 John Kim <john@townsquaredigital.com> 1422404728 -0500	commit: new dog year logic

@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f76470f292940830c382719fef916573a996f0d3 John Kim <john@townsquaredigital.com> 1422912284 -0500	commit (initial): new project
+f76470f292940830c382719fef916573a996f0d3 80ec9975a0d1f9e6bd94cdb1615b65d3e623b3c4 John Kim <john@townsquaredigital.com> 1422913572 -0500	commit: added Tigers instances and image files
+80ec9975a0d1f9e6bd94cdb1615b65d3e623b3c4 9ddecff42ff14a9747061fe1850121e147c4c42f John Kim <john@townsquaredigital.com> 1423597141 -0500	commit: added myTigers array
+9ddecff42ff14a9747061fe1850121e147c4c42f 55fa9bed9a433b24fd28844fbdb957b49a9f4c6e John Kim <john@townsquaredigital.com> 1423597358 -0500	commit: added show random tiger
+55fa9bed9a433b24fd28844fbdb957b49a9f4c6e 28e96f213396e259f8583e5865f366a3ce09e61a John Kim <john@townsquaredigital.com> 1423598679 -0500	commit: added view transition, corrected wrong action
